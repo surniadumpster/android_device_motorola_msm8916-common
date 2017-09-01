@@ -86,6 +86,7 @@ PRODUCT_PACKAGES += \
     camera.device@1.0-impl.legacy \
     camera.msm8916 \
     libbson \
+    libshims_camera \
     libc_util \
     Snap
 
